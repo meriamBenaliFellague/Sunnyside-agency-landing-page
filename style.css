@@ -475,13 +475,16 @@ h2,h5{
     .p{
         display: none;
     }
+    .main > h1{
+        padding-top: 3rem;
     .h1{
         font-size: 1.5rem;
         text-align: center;
         letter-spacing:0.6rem;
     }
     .main > img{
-        margin-top: 20%;
+        margin-left: 45%;
+        margin-top: 10%;
         width: 2rem;
     }
     .section1{
